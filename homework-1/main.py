@@ -1,10 +1,12 @@
 """Скрипт для заполнения данными таблиц в БД Postgres."""
+import os
+
 import psycopg2
 from psycopg2 import OperationalError
 
 
-PATH = 'C:/Users/User/PycharmProjects/postgres-homeworks/homework-1/north_data'
-
+PATH: str = os.getenv('Path_to_postgres-homework-1')
+print(PATH)
 
 def create_connection(db_name, db_user, db_password, db_host, db_port):
     connection = None
