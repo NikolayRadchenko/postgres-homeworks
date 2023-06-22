@@ -6,7 +6,7 @@ from psycopg2 import OperationalError
 
 
 PATH: str = os.getenv('Path_to_postgres-homework-1')
-print(PATH)
+
 
 def create_connection(db_name, db_user, db_password, db_host, db_port):
     connection = None
