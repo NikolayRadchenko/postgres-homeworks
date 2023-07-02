@@ -1,5 +1,5 @@
 # Local configuration file
-database.ini
+homework-5/database.ini
 
 # Byte-compiled / optimized / DLL files
 __pycache__/

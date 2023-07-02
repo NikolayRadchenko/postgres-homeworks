@@ -19,22 +19,22 @@
     "fax": "",
     "homepage": "#CAJUN.HTM#",
     "products": [
-      "Chef Anton's Cajun Seasoning",
-      "Chef Anton's Gumbo Mix",
+      "Chef Antons Cajun Seasoning",
+      "Chef Antons Gumbo Mix",
       "Louisiana Fiery Hot Pepper Sauce",
       "Louisiana Hot Spiced Okra"
     ]
   },
   {
-    "company_name": "Grandma Kelly's Homestead",
+    "company_name": "Grandma Kellys Homestead",
     "contact": "Regina Murphy, Sales Representative",
     "address": "USA; MI; 48104; Ann Arbor; 707 Oxford Rd.",
     "phone": "(313) 555-5735",
     "fax": "(313) 555-3349",
     "homepage": "",
     "products": [
-      "Grandma's Boysenberry Spread",
-      "Uncle Bob's Organic Dried Pears",
+      "Grandmas Boysenberry Spread",
+      "Uncle Bobs Organic Dried Pears",
       "Northwoods Cranberry Sauce"
     ]
   },
@@ -52,7 +52,7 @@
     ]
   },
   {
-    "company_name": "Cooperativa de Quesos 'Las Cabras'",
+    "company_name": "Cooperativa de Quesos Las Cabras",
     "contact": "Antonio del Valle Saavedra, Export Administrator",
     "address": "Spain; Asturias; 33007; Oviedo; Calle del Rosal 4",
     "phone": "(98) 598 76 54",
@@ -64,12 +64,12 @@
     ]
   },
   {
-    "company_name": "Mayumi's",
+    "company_name": "Mayumis",
     "contact": "Mayumi Ohno, Marketing Representative",
     "address": "Japan; ; 545; Osaka; 92 Setsuko Chuo-ku",
     "phone": "(06) 431-7877",
     "fax": "",
-    "homepage": "Mayumi's (on the World Wide Web)#http://www.microsoft.com/accessdev/sampleapps/mayumi.htm#",
+    "homepage": "Mayumis (on the World Wide Web)#http://www.microsoft.com/accessdev/sampleapps/mayumi.htm#",
     "products": [
       "Konbu",
       "Tofu",
@@ -94,15 +94,15 @@
   {
     "company_name": "Specialty Biscuits, Ltd.",
     "contact": "Peter Wilson, Sales Representative",
-    "address": "UK; ; M14 GSD; Manchester; 29 King's Way",
+    "address": "UK; ; M14 GSD; Manchester; 29 Kings Way",
     "phone": "(161) 555-4448",
     "fax": "",
     "homepage": "",
     "products": [
       "Chai",
       "Teatime Chocolate Biscuits",
-      "Sir Rodney's Marmalade",
-      "Sir Rodney's Scones",
+      "Sir Rodneys Marmalade",
+      "Sir Rodneys Scones",
       "Scottish Longbreads"
     ]
   },
@@ -114,7 +114,7 @@
     "fax": "031-987 65 91",
     "homepage": "",
     "products": [
-      "Gustaf's Kn\u00e4ckebr\u00f6d",
+      "Gustafs Kn\u00e4ckebr\u00f6d",
       "Tunnbr\u00f6d"
     ]
   },
@@ -241,7 +241,7 @@
     "homepage": "",
     "products": [
       "Boston Crab Meat",
-      "Jack's New England Clam Chowder"
+      "Jacks New England Clam Chowder"
     ]
   },
   {
@@ -295,12 +295,12 @@
     ]
   },
   {
-    "company_name": "G'day, Mate",
+    "company_name": "Gday, Mate",
     "contact": "Wendy Mackenzie, Sales Representative",
-    "address": "Australia; NSW; 2042; Sydney; 170 Prince Edward Parade Hunter's Hill",
+    "address": "Australia; NSW; 2042; Sydney; 170 Prince Edward Parade Hunters Hill",
     "phone": "(02) 555-5914",
     "fax": "(02) 555-4873",
-    "homepage": "G'day Mate (on the World Wide Web)#http://www.microsoft.com/accessdev/sampleapps/gdaymate.htm#",
+    "homepage": "Gday Mate (on the World Wide Web)#http://www.microsoft.com/accessdev/sampleapps/gdaymate.htm#",
     "products": [
       "Manjimup Dried Apples",
       "Filo Mix",
@@ -355,14 +355,14 @@
     ]
   },
   {
-    "company_name": "For\u00eats d'\u00e9rables",
+    "company_name": "For\u00eats d\u00e9rables",
     "contact": "Chantal Goulet, Accounting Manager",
     "address": "Canada; Qu\u00e9bec; J2S 7S8; Ste-Hyacinthe; 148 rue Chasseur",
     "phone": "(514) 555-2955",
     "fax": "(514) 555-2921",
     "homepage": "",
     "products": [
-      "Sirop d'\u00e9rable",
+      "Sirop d\u00e9rable",
       "Tarte au sucre"
     ]
   }

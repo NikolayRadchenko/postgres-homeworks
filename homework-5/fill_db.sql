@@ -3276,10 +3276,10 @@ INSERT INTO orders VALUES (11077, 'RATTC', 1, '1998-05-06', '1998-06-03', NULL, 
 INSERT INTO products VALUES (1, 'Chai', 1, '10 boxes x 30 bags', 18, 39, 0, 10, 1);
 INSERT INTO products VALUES (2, 'Chang', 1, '24 - 12 oz bottles', 19, 17, 40, 25, 1);
 INSERT INTO products VALUES (3, 'Aniseed Syrup', 2, '12 - 550 ml bottles', 10, 13, 70, 25, 0);
-INSERT INTO products VALUES (4, 'Chef Anton''s Cajun Seasoning', 2, '48 - 6 oz jars', 22, 53, 0, 0, 0);
-INSERT INTO products VALUES (5, 'Chef Anton''s Gumbo Mix', 2, '36 boxes', 21.3500004, 0, 0, 0, 1);
-INSERT INTO products VALUES (6, 'Grandma''s Boysenberry Spread', 2, '12 - 8 oz jars', 25, 120, 0, 25, 0);
-INSERT INTO products VALUES (7, 'Uncle Bob''s Organic Dried Pears', 7, '12 - 1 lb pkgs.', 30, 15, 0, 10, 0);
+INSERT INTO products VALUES (4, 'Chef Antons Cajun Seasoning', 2, '48 - 6 oz jars', 22, 53, 0, 0, 0);
+INSERT INTO products VALUES (5, 'Chef Antons Gumbo Mix', 2, '36 boxes', 21.3500004, 0, 0, 0, 1);
+INSERT INTO products VALUES (6, 'Grandmas Boysenberry Spread', 2, '12 - 8 oz jars', 25, 120, 0, 25, 0);
+INSERT INTO products VALUES (7, 'Uncle Bobs Organic Dried Pears', 7, '12 - 1 lb pkgs.', 30, 15, 0, 10, 0);
 INSERT INTO products VALUES (8, 'Northwoods Cranberry Sauce', 2, '12 - 12 oz jars', 40, 6, 0, 0, 0);
 INSERT INTO products VALUES (9, 'Mishi Kobe Niku', 6, '18 - 500 g pkgs.', 97, 29, 0, 0, 1);
 INSERT INTO products VALUES (10, 'Ikura', 8, '12 - 200 ml jars', 31, 31, 0, 0, 0);
@@ -3292,9 +3292,9 @@ INSERT INTO products VALUES (16, 'Pavlova', 3, '32 - 500 g boxes', 17.4500008, 2
 INSERT INTO products VALUES (17, 'Alice Mutton', 6, '20 - 1 kg tins', 39, 0, 0, 0, 1);
 INSERT INTO products VALUES (18, 'Carnarvon Tigers', 8, '16 kg pkg.', 62.5, 42, 0, 0, 0);
 INSERT INTO products VALUES (19, 'Teatime Chocolate Biscuits', 3, '10 boxes x 12 pieces', 9.19999981, 25, 0, 5, 0);
-INSERT INTO products VALUES (20, 'Sir Rodney''s Marmalade', 3, '30 gift boxes', 81, 40, 0, 0, 0);
-INSERT INTO products VALUES (21, 'Sir Rodney''s Scones', 3, '24 pkgs. x 4 pieces', 10, 3, 40, 5, 0);
-INSERT INTO products VALUES (22, 'Gustaf''s Knäckebröd', 5, '24 - 500 g pkgs.', 21, 104, 0, 25, 0);
+INSERT INTO products VALUES (20, 'Sir Rodneys Marmalade', 3, '30 gift boxes', 81, 40, 0, 0, 0);
+INSERT INTO products VALUES (21, 'Sir Rodneys Scones', 3, '24 pkgs. x 4 pieces', 10, 3, 40, 5, 0);
+INSERT INTO products VALUES (22, 'Gustafs Knäckebröd', 5, '24 - 500 g pkgs.', 21, 104, 0, 25, 0);
 INSERT INTO products VALUES (23, 'Tunnbröd', 5, '12 - 250 g pkgs.', 9, 61, 0, 25, 0);
 INSERT INTO products VALUES (24, 'Guaraná Fantástica', 1, '12 - 355 ml cans', 4.5, 20, 0, 0, 1);
 INSERT INTO products VALUES (25, 'NuNuCa Nuß-Nougat-Creme', 3, '20 - 450 g glasses', 14, 76, 0, 30, 0);
@@ -3313,7 +3313,7 @@ INSERT INTO products VALUES (37, 'Gravad lax', 8, '12 - 500 g pkgs.', 26, 11, 50
 INSERT INTO products VALUES (38, 'Côte de Blaye', 1, '12 - 75 cl bottles', 263.5, 17, 0, 15, 0);
 INSERT INTO products VALUES (39, 'Chartreuse verte', 1, '750 cc per bottle', 18, 69, 0, 5, 0);
 INSERT INTO products VALUES (40, 'Boston Crab Meat', 8, '24 - 4 oz tins', 18.3999996, 123, 0, 30, 0);
-INSERT INTO products VALUES (41, 'Jack''s New England Clam Chowder', 8, '12 - 12 oz cans', 9.64999962, 85, 0, 10, 0);
+INSERT INTO products VALUES (41, 'Jacks New England Clam Chowder', 8, '12 - 12 oz cans', 9.64999962, 85, 0, 10, 0);
 INSERT INTO products VALUES (42, 'Singaporean Hokkien Fried Mee', 5, '32 - 1 kg pkgs.', 14, 26, 0, 0, 1);
 INSERT INTO products VALUES (43, 'Ipoh Coffee', 1, '16 - 500 g tins', 46, 17, 10, 25, 0);
 INSERT INTO products VALUES (44, 'Gula Malacca', 2, '20 - 2 kg bags', 19.4500008, 27, 0, 15, 0);
@@ -3333,7 +3333,7 @@ INSERT INTO products VALUES (57, 'Ravioli Angelo', 5, '24 - 250 g pkgs.', 19.5, 
 INSERT INTO products VALUES (58, 'Escargots de Bourgogne', 8, '24 pieces', 13.25, 62, 0, 20, 0);
 INSERT INTO products VALUES (59, 'Raclette Courdavault', 4, '5 kg pkg.', 55, 79, 0, 0, 0);
 INSERT INTO products VALUES (60, 'Camembert Pierrot', 4, '15 - 300 g rounds', 34, 19, 0, 0, 0);
-INSERT INTO products VALUES (61, 'Sirop d''érable', 2, '24 - 500 ml bottles', 28.5, 113, 0, 25, 0);
+INSERT INTO products VALUES (61, 'Sirop dérable', 2, '24 - 500 ml bottles', 28.5, 113, 0, 25, 0);
 INSERT INTO products VALUES (62, 'Tarte au sucre', 3, '48 pies', 49.2999992, 17, 0, 0, 0);
 INSERT INTO products VALUES (63, 'Vegie-spread', 2, '15 - 625 g jars', 43.9000015, 24, 0, 5, 0);
 INSERT INTO products VALUES (64, 'Wimmers gute Semmelknödel', 5, '20 bags x 4 pieces', 33.25, 22, 80, 30, 0);
